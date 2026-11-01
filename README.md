@@ -4,10 +4,12 @@ YOU are a promosing photographer caught up in mankind's greatest
 biological blunder: Zombies. Traverse a decaying world full of
 stories. 
 
-GUIDE:
-------- Set Up -------
+----- Set-up -----
+
 How can you play this? Here's how!
+
 Should also work on mobile, it's just going to be really squished.
+
 Some places might not support the color coding & cleared screen,
 but this shouldn't detract from the main game.
 
@@ -39,16 +41,6 @@ but this shouldn't detract from the main game.
     Answers you can type are encapsulated in parenthesis
     ex: Waffles or pancakes ( waffles/pancakes )
     Type exactly what u see bc it's case sensitive
-
-* Saving:
-    Currently, NOT a feature yet, but I'm planning on making it
-
-    How it WOULD work v
-    1. Type save in any input box
-    2. String is produced with your progress and choices
-    3. Copy, save it somewhere like a google doc or note
-    4. Come back, enter load into the first input
-    5. Paste string in 
 
 * Dev Mischief:
     I may or may not have put small tidbits that are hidden:
