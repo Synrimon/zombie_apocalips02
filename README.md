@@ -14,7 +14,7 @@ Some places might not support the color coding & cleared screen,
 but this shouldn't detract from the main game.
 
     * Code HS:
-        1. Go to https://codehs.com/sandbox/maroonarmadillo5402/zombie-apocaclips
+        1. Go to [https://codehs.com/sandbox/maroonarmadillo5402/zombie-apocaclips](https://www.online-python.com/LhswRF4vjX)
         2. Hit the green "Run" button
     
     * Online Python Interpreter:
@@ -25,9 +25,9 @@ but this shouldn't detract from the main game.
         4. Click the left side and paste the code
         5. Press the "run" (or play) button 
         
-    * VS Code:
+    * Codespace:
         1. Copy ALL of this code
-        2. Go to https://vscode.dev/ (VS Code website)
+        2. Go to a codespace you use that can take python
         3. Create a file in .py
         4. Select Python as the language
         5. paste code in
